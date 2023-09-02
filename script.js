@@ -9,7 +9,6 @@ submitBtn.addEventListener("click", () => {
         errTxt.style.display = "block";
         eMail.style.border = "1px solid rgb(180, 86, 86)";
     }
-
 })
 
 function isValidEmail(email) {
